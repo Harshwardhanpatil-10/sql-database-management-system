@@ -1,24 +1,24 @@
 # sql-database-management-system
 A structured SQL project demonstrating relational database design, constraints, and CRUD operations.
 
-# 📊 Database Management System using SQL
+# Database Management System using SQL
 
-## 📌 Project Overview
+## Project Overview
 This project demonstrates the creation and management of a relational database using SQL.  
 It includes table creation, data insertion, and various database operations such as queries, updates, joins, and constraints.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - SQL
 - Relational Database Concepts
 - MySQL
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
-### 1️⃣ Table Scripts
+### 1️ Table Scripts
 Contains SQL queries to create tables with proper constraints:
 - Primary Keys
 - Foreign Keys
@@ -26,10 +26,10 @@ Contains SQL queries to create tables with proper constraints:
 - UNIQUE
 - CHECK constraints
 
-### 2️⃣ Populated Tables
+### 2️ Populated Tables
 Contains SQL queries to insert sample data into tables.
 
-### 3️⃣ Database Operations
+### 3️ Database Operations
 Includes:
 - SELECT queries
 - WHERE conditions
@@ -41,7 +41,7 @@ Includes:
 
 ---
 
-## 🧠 Concepts Demonstrated
+## Concepts Demonstrated
 - Relational Database Design
 - Normalization Basics
 - Data Integrity Constraints
@@ -50,7 +50,7 @@ Includes:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Create a new database in your SQL environment.
 2. Run `Tables Scripts.sql`
@@ -59,7 +59,7 @@ Includes:
 
 ---
 
-## 🎯 Learning Outcome
+## Learning Outcome
 This project strengthened my understanding of:
 - Database schema design
 - SQL query writing
@@ -68,5 +68,5 @@ This project strengthened my understanding of:
 
 ---
 
-## 👨‍💻 Author
+## Author
 Harshwardhan Patil
